@@ -1,0 +1,9 @@
+.mainDiv{
+    display: 'flex';
+    background-color: antiquewhite;
+    align-items: center;
+}
+
+.ulist{
+    align-items: center;
+}
