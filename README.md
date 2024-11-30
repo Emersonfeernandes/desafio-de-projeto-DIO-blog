@@ -1,23 +1,3 @@
-`
-src/
-├── components/          # Componentes reutilizáveis
-│   ├── layout/          # Layouts
-│   │   └── Layout.tsx   # Define o layout base
-│   └── Header.tsx       # (exemplo) Header opcional
-├── data/                # Dados estáticos
-│   └── posts.json       # Dados mockados dos posts
-├── pages/               # Arquivos obrigatórios para rotas
-│   ├── _app.tsx         # Arquivo principal (Next.js)
-│   ├── index.tsx        # Página inicial
-│   ├── posts/           # Rotas dinâmicas
-│   │   ├── [id].tsx     # Página de cada post
-│   │   └── index.tsx    # Listagem de posts
-├── styles/              # Estilos
-│   ├── globals.css      # Estilos globais
-└── public/              # Recursos estáticos
-    └── favicon.ico
-`
-
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
