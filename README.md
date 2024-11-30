@@ -1,3 +1,4 @@
+`
 src/
 ├── components/          # Componentes reutilizáveis
 │   ├── layout/          # Layouts
@@ -15,7 +16,7 @@ src/
 │   ├── globals.css      # Estilos globais
 └── public/              # Recursos estáticos
     └── favicon.ico
-
+`
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
